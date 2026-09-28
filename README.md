@@ -3,7 +3,7 @@
 **Author**
 
 #### Executive summary
-This project explores the data (support Ticket Data Information), employing machine learning models to predict which ProductGroup, Support Level, AgentGroup are likely to churn based on Priority, Source of the Ticket, ... Using models like Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Gradient Boosting, and Support Vector Machines (SVM), I identified the most accurate predictors of churn. The findings indicate key factors associated with churn and provide insights for developing retention strategies, ultimately guiding data-driven decisions to reduce churn rates.
+This project explores the data (support Ticket Data Information), employing machine learning models to predict which Product Group, Support Level, Agent Group are likely to churn based on Priority, Source of the Ticket, ... Using models like Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Gradient Boosting, and Support Vector Machines (SVM), I identified the most accurate predictors of churn. The findings indicate key factors associated with churn and provide insights for developing retention strategies, ultimately guiding data-driven decisions to reduce churn rates.
 
 #### Rationale
 Why should anyone care about this question?
@@ -22,8 +22,8 @@ I will now choose the process/workflow in a support department/call center. Here
 
 #### Research Question
 What are you trying to answer?
-•	Which and how many employees you need for the shifts in the next week /month ( depending on the product/productgroup and the knowledge whidh is needed  for them and which employees have those knowledges.)
-•	If a new release / product will be supported, which employees (tied to the product/productgroup,.. and how many you need to solve this additional amount of work?
+•	Which and how many employees you need for the shifts in the next week /month ( depending on the product/product group and the knowledge which is needed  and which employees have those knowledges.)
+•	If a new release / product will be supported, which employees (tied to the product/produc tgroup,.. ) and how many you need to solve this additional amount of work?
 
 
 #### Data Sources
@@ -60,8 +60,8 @@ What suggestions do you have for next steps?
     8.    Next Steps and Future Work: Outline of potential developments and applications for ongoing churn prediction efforts.
 
 #### additional work to be done
-   1. add the knowledge information
-   2. add employee infomration
-   3. with the additonal data (knowledge, employee) it is possible to have not just product, productgroup, but also the exacet emplyoee, which is needed 
+   1. add knowledge information
+   2. add employee information
+   3. with the additional data (knowledge, employee) it is possible to have not just product, product group, but also the exact emplyoee, which is needed 
 
 ##### Contact and Further Information
